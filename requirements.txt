@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlmodel
+asyncpg
+alembic
+pydantic
+httpx
+aio-pika
+aiohttp
+slowapi
+aiohttp
+httpx
+pytest
+pytest-asyncio
